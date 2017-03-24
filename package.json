@@ -1,0 +1,15 @@
+{
+  "name": "working-hours",
+  "version": "0.0.0",
+  "description": "Check if a time is specified inside a set of working hours",
+  "author": "Dave Eddy <dave@daveeddy.com> (http://www.daveeddy.com)",
+  "main": "./working-hours.js",
+  "scripts": {
+    "test": "TZ=UTC ./node_modules/.bin/tape test/*.test.js"
+  },
+  "repository": "git://github.com/bahamas10/node-working-hours.git",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
