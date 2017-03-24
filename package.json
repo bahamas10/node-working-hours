@@ -1,6 +1,6 @@
 {
   "name": "working-hours",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Check if a time is specified inside a set of working hours",
   "author": "Dave Eddy <dave@daveeddy.com> (http://www.daveeddy.com)",
   "main": "./working-hours.js",
